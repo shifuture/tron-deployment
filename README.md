@@ -5,7 +5,7 @@ Just Support FullNode and SolidityNode.
 ## Download and run script
 
 ```shell
-wget https://raw.githubusercontent.com/tronprotocol/TronDeployment/master/deploy_tron.sh -O deploy_tron.sh
+wget https://raw.githubusercontent.com/shifuture/tron-deployment/master/deploy_tron.sh -O deploy_tron.sh
 ```
 
 ## Parameter Illustration
